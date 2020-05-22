@@ -1,2 +1,2 @@
-Prototype Windows, Android, iOS, Mac OS, LInux and web application (MVVM)
+Prototype Windows, Android, iOS, Mac OS, LInux and web applications (MVVM)
 
